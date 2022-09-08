@@ -1,0 +1,23 @@
+{
+  "name": "backend--projectmanager",
+  "version": "1.0.0",
+  "description": "node.js backend for a project management app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomig02/BACKEND--ProjectManager.git"
+  },
+  "author": "Tomas Guardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomig02/BACKEND--ProjectManager/issues"
+  },
+  "homepage": "https://github.com/Tomig02/BACKEND--ProjectManager#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
